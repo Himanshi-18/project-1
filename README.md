@@ -2,7 +2,7 @@
 <h1>Flower shop website</h1>
 
 <p>This is a responsive e-commerce website design using pure html and css only.
-Created an online flower shop e-commerce website design using html and css only from scratch.</p>
+Created an online flower shop e-commerce website design using html and css only.</p>
 
 <h3>The main feature of this website are:</h3>
 <ul>
